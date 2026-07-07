@@ -1,10 +1,5 @@
 # 🦠 Skin Cancer Multi-Omics: Microbiome & Microbial Dark Matter (MDM)
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-4.4+-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 > **Investigating the tumorigenic role of the microbiome and unclassified microbial dark matter in skin cancers through the integration of shotgun metagenomics and LC-MS/MS-based quantitative proteomics.**
 
 ---
