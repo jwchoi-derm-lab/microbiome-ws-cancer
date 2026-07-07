@@ -1,7 +1,5 @@
 # 🦠 Skin Cancer Multi-Omics: Microbiome & Microbial Dark Matter (MDM)
 
-![Multi-Omics](https://img.shields.io/badge/jwchoi-derm-lab/microbiome-ws-cancer
-)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jwchoi-derm-lab/microbiome-ws-cancer
 ) 
 ![GitHub last commit](https://img.shields.io/github/last-commit/jwchoi-derm-lab/microbiome-ws-cancer
