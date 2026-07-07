@@ -1,8 +1,12 @@
 # 🦠 Skin Cancer Multi-Omics: Microbiome & Microbial Dark Matter (MDM)
 
-![Fedora](https://img.shields.io/badge/Fedora_43-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Multi-Omics](https://img.shields.io/badge/Multi--Omics-Research-4CAF50?style=for-the-badge)
-![Proteogenomics](https://img.shields.io/badge/Proteogenomics-Analysis-FF9800?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/jwchoi-derm-lab/epidemiology-dermoscopy-cancer
+) 
+![GitHub last commit](https://img.shields.io/github/last-commit/jwchoi-derm-lab/epidemiology-dermoscopy-cancer
+)
+![GitHub issues](https://img.shields.io/github/issues/jwchoi-derm-lab/epidemiology-dermoscopy-cancer
+)
 
 > **A comprehensive multi-omics investigation into the tumorigenic roles of the skin microbiome and Microbial Dark Matter (MDM) in various skin cancers, integrating shotgun metagenomics and quantitative proteomics.**
 
