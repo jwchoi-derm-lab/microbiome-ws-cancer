@@ -1,45 +1,54 @@
-# 🦠 Skin Cancer Multi-Omics: Microbiome & Microbial Dark Matter (MDM)
+# Skin Cancer Multi-Omics: Microbiome & Microbial Dark Matter (MDM)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/jwchoi-derm-lab/microbiome-ws-cancer
-) 
-![GitHub last commit](https://img.shields.io/github/last-commit/jwchoi-derm-lab/microbiome-ws-cancer
-)
+![GitHub repo size](https://img.shields.io/github/repo-size/jwchoi-derm-lab/microbiome-ws-cancer)
+![GitHub last commit](https://img.shields.io/github/last-commit/jwchoi-derm-lab/microbiome-ws-cancer)
 ![GitHub issues](https://img.shields.io/github/issues/jwchoi-derm-lab/microbiome-ws-cancer)
 
-> **A comprehensive multi-omics investigation into the tumorigenic roles of the skin microbiome and Microbial Dark Matter (MDM) in various skin cancers, integrating shotgun metagenomics and quantitative proteomics.**
+> A multi-omics investigation into the tumorigenic roles of the skin microbiome and Microbial Dark Matter (MDM) in skin cancer, integrating shotgun metagenomics and quantitative proteomics.
 
 ---
 
-## 📖 Background & Rationale
-Skin cancer prevalence is rapidly increasing with the aging population. While UV exposure is a primary risk factor, recent evidence suggests that the skin microbiome plays a critical role in tumor development, progression, and the host immune response. 
+## Background & Rationale
 
-However, a vast majority of microbes remain unculturable and unmapped in standard databases—a concept known as **Microbial Dark Matter (MDM)**. To date, there has been no systematic study identifying the composition, function, and protein expression of MDM specifically in the context of skin cancers. This project aims to bridge that gap by uncovering the hidden microbial ecosystem within the tumor microenvironment.
+Skin cancer prevalence continues to rise with population aging. Although UV exposure remains the primary risk factor, growing evidence implicates the skin microbiome in tumor development, progression, and host immune modulation.
 
-## 🎯 Research Objectives
-The ultimate goal of this project is to identify the microbiome and MDM closely associated with skin cancers and to comprehensively analyze their structural and functional roles across different cancer types.
-1. **Identify MDM in Skin Cancer:** Construct Metagenome-Assembled Genomes (MAGs) to discover previously unmapped bacteria, viruses, and fungi in tumor tissues.
-2. **Discover Microbe-Derived Proteins:** Perform proteogenomic analysis to find proteins secreted by these microbes within the tumor microenvironment.
-3. **Elucidate Pathogenic Mechanisms:** Investigate how these specific microbial proteins interact with host cells, modulate T-cell activity, and influence skin cancer occurrence and recurrence.
+A substantial fraction of skin-associated microbes remain uncultured and absent from reference databases—collectively termed Microbial Dark Matter (MDM). No systematic study to date has characterized the composition, function, or protein expression of MDM within skin cancer. This project addresses that gap by mapping the hidden microbial ecosystem of the tumor microenvironment.
 
-## 🔬 Study Design & Methodology
+## Research Objectives
 
-### 1. Cohort & Sampling Strategy
-The study targets adult patients diagnosed with major skin cancers, aiming to analyze the spatial distribution of microbes:
-- **Target Cancers:** Basal Cell Carcinoma (BCC), Squamous Cell Carcinoma (SCC) including precancerous lesions (Actinic Keratosis, Bowen's disease), and Melanoma.
-- **Sample Types:** 
-  - *Tissue Biopsies (Epidermis & Dermis):* Paired tumor and adjacent normal tissues.
-  - *Surface Samples (Stratum Corneum):* Non-invasive tape stripping and swabs from the exact lesion sites.
+1. **Identify MDM in skin cancer** by constructing Metagenome-Assembled Genomes (MAGs) to characterize previously unmapped bacteria, viruses, and fungi in tumor tissue.
+2. **Discover microbe-derived proteins** through proteogenomic analysis of the tumor microenvironment.
+3. **Elucidate pathogenic mechanisms** by investigating how microbial proteins interact with host cells, modulate T-cell activity, and influence skin cancer occurrence and recurrence.
 
-### 2. Multi-Omics Approach
-- **Shotgun Metagenomics:** Deep sequencing of host-depleted DNA to profile the taxonomic composition. Unmapped sequences are assembled into MAGs to identify specific MDM strains and predict functional resistomes.
-- **Quantitative Proteomics:** High-resolution LC-MS/MS analysis to precisely quantify proteins from low-biomass skin samples.
-- **Integrative Proteogenomics (The Core Strategy):** We build customized, sample-specific microbial protein databases by merging UniProt reference genomes with our shotgun sequencing data. This allows us to accurately detect microbe-derived peptides that are overexpressed in tumor tissues and validate their biological pathways.
+## Study Design & Methodology
 
-## 🌟 Significance & Clinical Impact
-This research moves beyond simple bacterial profiling by employing strain-level analysis and host-microbiome interaction modeling. 
-- **Scientific Impact:** Establishes a new methodological foundation for exploring MDM in solid tumors.
-- **Therapeutic Innovation:** Identifies targetable microbial proteins that could serve as candidates for next-generation, non-invasive biotherapeutics (pre/pro/postbiotics), reducing the severe skin irritation caused by current topical treatments.
-- **Public Health:** Provides a robust microbiome-protein integrated database to develop early diagnostic biomarkers for high-risk populations, including the elderly and immunosuppressed patients.
+### Cohort & Sampling Strategy
+
+The study enrolls adult patients with major skin cancers to characterize the spatial distribution of associated microbes.
+
+- **Target cancers:** Basal cell carcinoma (BCC); squamous cell carcinoma (SCC) and precursor lesions (actinic keratosis, Bowen's disease); melanoma.
+- **Sample types:** Paired tumor/adjacent normal tissue biopsies (epidermis and dermis); non-invasive surface sampling (tape stripping, swabs) from stratum corneum at lesion sites.
+
+### Multi-Omics Approach
+
+- **Shotgun metagenomics:** Deep sequencing of host-depleted DNA for taxonomic profiling; unmapped reads are assembled into MAGs to identify MDM strains and predict functional resistomes.
+- **Quantitative proteomics:** High-resolution LC-MS/MS for precise protein quantification from low-biomass skin samples.
+- **Integrative proteogenomics (core strategy):** Sample-specific microbial protein databases, built by merging UniProt reference genomes with in-house shotgun sequencing data, enable detection of microbe-derived peptides overexpressed in tumor tissue and validation of their biological pathways.
+
+## Significance & Clinical Impact
+
+This project moves beyond conventional bacterial profiling through strain-level analysis and host-microbiome interaction modeling.
+
+- **Scientific impact:** Establishes a methodological framework for MDM discovery in solid tumors.
+- **Therapeutic innovation:** Identifies targetable microbial proteins as candidates for next-generation, non-invasive biotherapeutics (pre-/pro-/postbiotics), potentially reducing irritation associated with current topical treatments.
+- **Public health:** Builds an integrated microbiome-protein database to support early diagnostic biomarker development for high-risk populations, including elderly and immunosuppressed patients.
 
 ---
-**Principal Investigator:** Jeewoong Choi, Dermatologist & Microbiome Researcher
+
+## Funding
+
+This work is supported by the National Research Foundation of Korea (NRF), Grant No. RS-2026-25469501.
+
+---
+
+**Principal Investigator:** Jeewoong Choi, MD, PhD — Dermatologist & Microbiome Researcher
